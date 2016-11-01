@@ -1,2 +1,3 @@
 # PHILISTINE_BASIC_COMPSCI
-IS FUNNY BECAUSE I STUPID
+It is funny because I am smart.
+<code>foobar</code>
