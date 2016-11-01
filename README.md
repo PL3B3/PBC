@@ -1,3 +1,2 @@
 # PHILISTINE_BASIC_COMPSCI
-It is funny because I am smart.
-<code>rm -rf /</code>
+IS FUNNY BECAUSE I STUPID
