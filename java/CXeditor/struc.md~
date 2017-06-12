@@ -1,0 +1,25 @@
+STORAGE
+
+class basecard
+  java.net.URL url
+  hash urlHash
+  String tag
+  Author author
+  Date published
+  Array[String] paragraphs
+
+
+
+class Author
+  
+
+
+EDITOR
+
+  READ
+
+  DISPLAY
+
+CUTTER
+
+EXTENSION   

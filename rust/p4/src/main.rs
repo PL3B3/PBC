@@ -1,11 +1,14 @@
 fn main() {
     use std::process::Command;
 
-    Command::new("ls")
-        .spawn()
-        .expect("command failed");
-    
-    println!("Hello, world!");
-        
-    println!("{}", 10);
+   // let mut fname0 = "~/Documents/thing.rs";
+
+    Command::new("echo")
+        .arg()
+       .spawn()
+        .expect("command failed");    
+      //  .arg("pleb")
+      //  .arg(">>")
+      //  .arg(fname0)
+ 
 }

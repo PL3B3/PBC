@@ -1,6 +1,6 @@
 package p1;
 
 public class farmer {
-	public string name;
+	public String name;
 	
 }
