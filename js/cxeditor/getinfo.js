@@ -32,3 +32,5 @@ PLOSE REGEX
 \b\S+\b
 \b\S+\b
 \b\S+\b
+
+/(\b\S+\b)|[:".,;&+']/g
