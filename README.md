@@ -1,3 +1,3 @@
 # PHILISTINE_BASIC_COMPSCI
-It is funny because I stupid.
+Contains a Bayesian analysis machine for identifying diseases, which I never got to train because medical records are private
 <code>rm -rf /</code>
